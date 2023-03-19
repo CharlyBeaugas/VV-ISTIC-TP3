@@ -26,3 +26,10 @@ Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to compl
 
 ## Answer
 
+1. The large amount of possible values complexifies the tests' redaction.
+We went for a maximum of differences, categorizing inputs with only the [], {} and () symbols, then with letters in-between, and finally with
+various non-alphanumeric characters. Each situation saw a valid input and multiple invalid inputs : missing bracket, overlapping brackets.
+
+2. 100% coverage was achieved :
+![img.png](/exercises/img/img.png)
+![img_1.png](/exercises//img//img_1.png)

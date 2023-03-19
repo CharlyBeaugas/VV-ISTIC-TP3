@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ea9280b-5c93-4b7e-b3dc-fd0229a28cd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp3-ssl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-balanced-strings/src/main/java/fr/istic/vv/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-balanced-strings/src/main/java/fr/istic/vv/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-balanced-strings/src/test/java/fr/istic/vv/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-balanced-strings/src/test/java/fr/istic/vv/StringUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/istic/vv/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/istic/vv/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fr/istic/vv/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fr/istic/vv/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-heap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-heap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-heap/src/main/java/fr/istic/vv/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-heap/src/main/java/fr/istic/vv/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-heap/src/test/java/fr/istic/vv/BinaryHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-heap/src/test/java/fr/istic/vv/BinaryHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/SSLSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/SSLSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/TLSProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/TLSProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/TLSSocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/src/main/java/fr/istic/vv/TLSSocketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/src/test/java/fr/istic/vv/TLSSocketFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/src/test/java/fr/istic/vv/TLSSocketFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp3-ssl/src/test/java/fr/istic/vv/TLSSocketFactoryTestMocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp3-ssl/src/test/java/fr/istic/vv/TLSSocketFactoryTestMocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/assertions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/assertions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/balanced-strings.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/balanced-strings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/mocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/mocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/pmd-test-smells.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/pmd-test-smells.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/test-date-class.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/test-date-class.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Soft\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2N6i5rW0lWGWghK60cbBw3tU4TW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Work/FAC/M2/VV/VV-ISTIC-TP3/code/tp3-balanced-strings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3-date" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.istic.vv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.istic.vv" />
+      <option name="MAIN_CLASS_NAME" value="fr.istic.vv.DateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ea9280b-5c93-4b7e-b3dc-fd0229a28cd0" name="Changes" comment="" />
+      <created>1678990753044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678990753044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp3_date$DateTest.ic" NAME="DateTest Coverage Results" MODIFIED="1678991772263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fr.istic.vv.*</FILTER>
+    </SUITE>
+  </component>
+</project>
